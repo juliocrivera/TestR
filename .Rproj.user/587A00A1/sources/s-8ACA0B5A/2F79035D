@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522207040480.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2798686385",
+    "id" : "2F79035D",
+    "lastKnownWriteTime" : 1522208354,
+    "last_content_update" : 1522208354864,
+    "path" : "~/R_Tests/StockData.R",
+    "project_path" : "StockData.R",
+    "properties" : {
+        "cursorPosition" : "3,10",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
